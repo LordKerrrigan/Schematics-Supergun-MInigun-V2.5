@@ -11,9 +11,13 @@ Note:
 * The footprint of the A6H-4101 is not the same between the PCB and SCH models.
 
 PCB:
+
 1 ->- 2
+
 3 ->- 4
+
 5 ->- 6
+
 7 ->- 8
 
 SCH:
